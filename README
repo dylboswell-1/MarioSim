@@ -1,0 +1,18 @@
+Dylan Boswell
+dylboswell@gmail.com
+
+Source Files:
+    1. Mario.h
+    2. Mario.cpp
+    3. Level.h 
+    4. Level.cpp
+    5. Logger.h
+    6. Logger.cpp
+    5. Simulation.h
+    6. Simulation.cpp
+    7. main.cpp
+    8. input.txt
+    9. output.txt
+
+To compile: g++ *.cpp -o mario.exe
+To run: ./mario.exe input.txt output.txt
